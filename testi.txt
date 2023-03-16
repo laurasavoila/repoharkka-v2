@@ -1,1 +1,2 @@
 testi tekstiä repoharkkaan v2
+Lisää testi tekstiä samaan repoon ja harkkaan
